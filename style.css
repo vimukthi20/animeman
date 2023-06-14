@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+@media screen{
+body p {
+    background-color: #2EEA89;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: blueviolet;
+}
+.container footer center {
+    background-color: red;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.dropdown {
+    background-color: purple;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    background-color: green;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    background-color: pink;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: brown;
+}
+
+
+
+
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    background-color: indianred;
+}
+
+
+
+}
+
+body{
+	background-color: black;
+}
